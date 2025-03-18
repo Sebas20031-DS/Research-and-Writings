@@ -12,7 +12,7 @@ This repository contains the analysis and code for a Correspondence Analysis (CA
 
 ### Report
 
-The full report, written by Sebastián David Reyes Santamaría, provides a detailed explanation of the analysis, results, and conclusions. The document discusses the selection of principal components, interpretation of results, and insights derived from correspondence analysis.
+The full report, written in English or Spanish, provides a detailed explanation of the analysis, results, and conclusions. The document discusses the selection of principal components, interpretation of results, and insights derived from correspondence analysis.
 
 ### Code
 
