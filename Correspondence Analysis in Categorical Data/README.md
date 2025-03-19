@@ -1,7 +1,5 @@
 # Correspondence Analysis in Categorical Data
 
-## English
-
 ### Overview
 
 This repository contains the analysis and code for a Correspondence Analysis (CA) study conducted on categorical data segmented by gender and age groups. The analysis includes:

@@ -1,4 +1,4 @@
-# Cointegration Analysis between BTC and Other Cryptocurrencies
+# Cointegration Analysis between BTC and Other Cryptocurrencies (2024)
 
 ## Description
 This repository contains the code and analysis of a study on the cointegration between the price of **Bitcoin (BTC)** and three other cryptocurrencies: **Solana (SOL), Cardano (ADA), and Binance Coin (BNB)**. The **Engle-Granger** and **Johansen test** methods are implemented to assess the existence of long-term relationships between these assets.
